@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <h1>ALMÔNDEGAS AO ESTILO ASIÁTICO</h1>
+    <img src="Almondegas_Estilo_Asiatico_3.jpg" width="300" alt="imagem de Almondegas pronta na Frigideira">
+
+    <h2>Descrição do Prato</h2>
+    <p>Sou uma fã assumida de carne moída. Acho que são versáteis, e além de tudo, no dia em que estou com um pouco de preguiça, elas me lembram de que é possível variar o cardápio sem ficar muito tempo na cozinha. 
+        Aí você põe nessa conta os legumes congelados, que por sinal sou muito fã, e pronto! O jantar esta servido. 
+        A algum tempo que parei de comprar legumes frescos, ou pelo menos diminui bastante a frequência com que compro. Nada contra, eu adoro come-los fresquinhos. O problema é que o desperdício aqui em casa era enorme. Toda semana muitos iam para o lixo sem nem terem sido tocados, sem serem lembrados, tudo culpa da falta de tempo e cansaço. Até descascar, cortar, cozinhar... 
+        Foi aí que comecei a ver os legumes congelados com uma opção viável, são um poucos mais caros, mas consumimos tudo! Desperdício zero hoje em dia!!! =)
+        
+        ﻿No inicio achei que eles tinham conservantes, corantes, e todos os antes da face da Terra. Mas ao ler a embalagem, descobri que são só legumes mesmo, sem nada. Ganharam pontos infinitos comigo nesse quesito. hehe
+        Alguns legumes já encontro fácil em praticamente todos os supermercados, são eles: milho verde, ervilha, couve-flor, espinafre,e  algumas misturas tipo jardineira. Outros só encontrei em atacadistas. O que utilizei nessa receita é a Mistura Japonesa, da marca D'aucy. Se não me engano, paguei R$17,00 no pacote de 1kg, e durou alguns meses. Nesse mesmo dia comprei outros 3 pacotes de 1kg de misturas diferentes. O que mais gostei foi a Mistura Chinesa, pois vem prontinha para fazer yakissoba e outros pratos que eu amo da culinária chinesa. 
+        E se você sofre do mesmo problema que eu sofria, que tal começar a comprar legumes congelados, prontos para o consumo? É colocar na panela e partiu pro abraço. hehe</p>
+
+         <h3>Ingridientes</h3>
+            <ul>
+            <li>Carne moída: 600 g</li>
+            <li>• Farinha de trigo: 2 colheres de sopa</li>
+            <li>• Gengibre fresco ralado: 1/2 colher de sopa</li>
+            <li>• Shoyu: 4 colheres de sopa</li>
+            <li>Pimenta do reino: a gosto</li>
+            <li>Coentro picado: 1 colher de sopa</li>
+            <li>Legumes variados congelados (cenoura, brócolis, couve-flor, cebola): 150 g</li>
+            </ul>
+
+            <h3>Modo de Preparo</h3>
+
+            <ul>
+                <li>Em uma tigela média, tempere a carne moída com todos os ingredientes, exceto os legumes picados. Misture bem com o auxílio de uma espatula ou colher grande. </li>
+                <li>Divida a carne em partes iguais, comece dividindo ao meio, depois divida ao meio novamente, até obter 20 partes iguais. Se desejar, continue dividindo ao meio até chegar no tamanho desejado. Particularmente, prefiro almondegas menores, que de para comer em uma única mordida.</li>
+                <li>Feito isso, reserve as almôndegas.</li>
+                <li>Ligue o fogo em temperatura alta, e coloque uma frigideira grande para esquentar. Regue com um pouco de azeite e deixe ele ficar bem quente. Em seguida, acomode as almondegas, mas deixe um pouco de espaço entre elas, assim ficarão mais douradas e crocantes.</li>
+                <li>Grelhe dos dois lados até obter uma casquinha dourada. Nesse ponto, pode adicionar os legumes e 3 colheres de sopa de shoyo, e 5 colheres de sopa de água filtrada.
+                    - Tampe, e deixe cozinhando por aproximadamente 5 minutos, ou até que os legumes tenham descongelado. Se estiver usando legumes frescos, o tempo será um pouco maior, fique de olho para não queimar e se necessário, coloque água aos poucos para cozinhar corretamente os legumes.</li>
+                <li>Quando os legumes estiverem al dente, desligue e sirva em seguida. </li>
+                <li>Gosto de salpicar amendoim torrado em comidas com inspirações asiáticas, mas esse é um habito particular. Sinta-se a vontade para acrescenta-lo ao se prato também. </li>
+                <li>Sirva acompanhado de arroz branco (comum ou para sushi) ou como petisco.</li>
+                <li></li>
+            </ul>
+                    <h4>NOTA</h4>
+
+            <p>-Se você não gosta de coentro, pode substitui-lo por salsinha ou cebolinha picadas, ou não adicionar tempero verde. Vai funcionar do mesmo jeito. 
+                - O shoyo pode ser substituído pelo molho inglês, mas aí deixa de ser um pouco asiático, hehe. 
+                - As almondegas podem ser congeladas antes do cozimento. Tempere, molde e congele em sacos herméticos. Só lembre de deixar as bolinhas separadas, vai facilitar na hora de utilizar. 
+                - Para usar congeladas, o processo é o mesmo, porém vai demorar um pouco mais para grelhar. 
+                - Pode ser assada. Aproximadamente 15 minutos de forno bem quente, ou até ficarem douradas. </p>
+
+                <h3>Dê olhada como ficou</h3>
+               <video src=""></video> <iframe width="560" height="315" src="https://www.youtube.com/embed/IxQ6bUZ8HUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                
+            </body>
+
+</html>
